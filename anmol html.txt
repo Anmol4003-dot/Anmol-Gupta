@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anmol Gupta | Digital Business</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-content">
+            <div class="logo">AG</div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="header" id="about">
+        <div class="header-content">
+            <span class="subtitle">Digital Business & Innovation</span>
+            <h1>Anmol Gupta</h1>
+            <p class="objective">Organized and dependable candidate successful at managing multiple priorities with a positive attitude.</p>
+            <a href="#contact" class="cta-button">Get in Touch</a>
+        </div>
+    </header>
+
+    <section id="education" class="education-section">
+        <h2 class="section-title">Education</h2>
+        <div class="timeline">
+            <div class="timeline-item">
+                <span class="year">2024-2027</span>
+                <h3>IIM Bangalore</h3>
+                <p class="degree">BBA Digital Business Entrepreneurship</p>
+            </div>
+            <div class="timeline-item">
+                <span class="year">2022-23</span>
+                <h3>K.R. Mangalam World School</h3>
+                <p class="degree">High School - Commerce</p>
+                <p class="achievement">CA Intermediate</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="experience" class="experience-section">
+        <h2 class="section-title">Experience</h2>
+        <div class="experience-grid">
+            <div class="experience-card">
+                <h3>Family Business</h3>
+                <p>Enhancing business skills by managing the family business</p>
+            </div>
+            <div class="experience-card">
+                <h3>School Head Boy | 2022-23</h3>
+                <ul>
+                    <li>Represented the student body and acted as liaison</li>
+                    <li>Organized school events and led prefect teams</li>
+                    <li>Developed public speaking and leadership skills</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="skills-section">
+        <h2 class="section-title">Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <h3>Core Skills</h3>
+                <ul>
+                    <li>Problem Solving</li>
+                    <li>Financial Management</li>
+                    <li>Leadership</li>
+                    <li>Networking</li>
+                </ul>
+            </div>
+            <div class="skill-category">
+                <h3>Languages</h3>
+                <ul>
+                    <li>Hindi</li>
+                    <li>English</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact-section">
+        <h2 class="section-title">Contact</h2>
+        <div class="contact-grid">
+            <div class="contact-item">
+                <i class="fas fa-phone"></i>
+                <a href="tel:+918368213480">+91 8368213480</a>
+            </div>
+            <div class="contact-item">
+                <i class="fas fa-envelope"></i>
+                <a href="mailto:anmolgupta3004@gmail.com">anmolgupta3004@gmail.com</a>
+            </div>
+            <div class="contact-item">
+                <i class="fas fa-map-marker-alt"></i>
+                <span>Faridabad, Haryana</span>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Anmol Gupta. All rights reserved.</p>
+    </footer>
+</body>
+</html>
